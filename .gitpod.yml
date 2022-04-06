@@ -1,0 +1,6 @@
+tasks:
+  - init: sudo install-packages shellcheck
+  - command: make
+vscode:
+  extensions:
+    - timonwong.shellcheck
